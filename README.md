@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
     📩 : yayazdiallo@outlook.fr
     📞 : +336 52 25 97 22
-    🌐 : (https://www.linkedin.com/in/yaya-developpeur/ "My linkedin profile")
+    🌐 : [Linkedin](https://www.linkedin.com/in/yaya-developpeur/ "My linkedin profile")
 
 
 <!---
