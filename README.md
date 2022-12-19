@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YayaDiallo
 - 👀 I’m interested in web development as a React / Node.js developer
 - 🌱 I’m currently learning the concepts to become an advanced ReactJS developper, advanced Node.js developper, TDD and how to secure perfectly your application
-- 💞️ I’m looking to collaborate on projects based on MERN Stack
+- 💞️ I’m looking to collaborate on projects based on MERN or PERN Stack
 - 📫 How to reach me ...  <br />
    - 📩 : yayazdiallo@outlook.fr  <br />
    - 📞 : +336 52 25 97 22  <br />
