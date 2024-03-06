@@ -4,7 +4,7 @@
 
 🌱 Continuously learning and evolving, I'm committed to mastering advanced concepts in ReactJS and Node.js development, while also embracing Test-Driven Development (TDD) and security best practices to ensure robust applications.
 
-💡 I'm excited to expand my horizons by exploring AWS services to leverage cloud computing for enhanced scalability, reliability, and security in my projects.
+💡 Leveraging AWS services is already a key aspect of my development toolkit. I'm excited to continue exploring AWS to harness the power of cloud computing for enhanced scalability, reliability, and security in my projects.
 
 💼 I’m open to collaborating on projects based on the MERN or PERN Stack, as well as exploring new stacks and technologies. Diversity in technology excites me, and I'm eager to explore innovative solutions.
 
